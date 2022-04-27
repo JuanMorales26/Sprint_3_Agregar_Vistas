@@ -1,0 +1,22 @@
+{
+  "name": "sprint_3_agregar_vistas",
+  "version": "1.0.0",
+  "description": "Practic 5 de la semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMorales26/Sprint_3_Agregar_Vistas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMorales26/Sprint_3_Agregar_Vistas/issues"
+  },
+  "homepage": "https://github.com/JuanMorales26/Sprint_3_Agregar_Vistas#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
