@@ -1,4 +1,4 @@
-const UserView = require('./../app/views/UserView')
+const UserView = require('../../app/views/UserView')
 describe("Test Unit for User View", () => {
     /*Requerimiento 1*/
    test("Return an error object when try to create a new user with a null playload", () => {

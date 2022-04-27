@@ -1,4 +1,4 @@
-const User = require('./../../../Twitter/app/models/User')
+const User = require('../../../Twitter/app/models/User')
 
 class UserView{
     static createUser(payload){
